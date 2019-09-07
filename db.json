@@ -1,3 +1,4 @@
+[
 {
 "ID": 1,
 "Date": "05.09.2019",
@@ -10,7 +11,25 @@
 {
 "ID": 2,
 "Date": "07.09.2019",
-"EventName": "React Webinar",
+"EventName": "React Webinar\t",
+"Time": "13:50",
+"City": "Hulon",
+"SeatPlaces": 100,
+"FreePlaces": 100
+},
+{
+"ID": 3,
+"Date": "05.09.2019",
+"EventName": "Angular Webinar",
+"Time": "12:50",
+"City": "Tel Aviv",
+"SeatPlaces": 100,
+"FreePlaces": 100
+},
+{
+"ID": 4,
+"Date": "07.09.2019",
+"EventName": "React Webinar\t",
 "Time": "13:50",
 "City": "Hulon",
 "SeatPlaces": 100,
@@ -43,3 +62,4 @@
 "SeatPlaces": 100,
 "FreePlaces": 100
 }
+]

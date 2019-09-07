@@ -1,0 +1,47 @@
+[
+{
+"ID": 1,
+"Date": "05.09.2019",
+"EventName": "Angular Webinar",
+"Time": "12:50",
+"City": "Tel Aviv",
+"SeatPlaces": 100,
+"FreePlaces": 100
+},
+{
+"ID": 2,
+"Date": "07.09.2019",
+"EventName": "React Webinar",
+"Time": "13:50",
+"City": "Hulon",
+"SeatPlaces": 100,
+"FreePlaces": 100
+},
+{
+"ID": 5,
+"Date": "06.09.2019",
+"EventName": "Vue Webinar",
+"Time": "18:50",
+"City": "Kfar Saba",
+"SeatPlaces": 100,
+"FreePlaces": 100
+},
+{
+"ID": 6,
+"Date": "09.09.2019",
+"EventName": "PHP Webinar",
+"Time": "14:50",
+"City": "Raanana",
+"SeatPlaces": 100,
+"FreePlaces": 100
+},
+{
+"ID": 7,
+"Date": "08.09.2019",
+"EventName": "JavaScript Webinar",
+"Time": "13:50",
+"City": "Rishon",
+"SeatPlaces": 100,
+"FreePlaces": 100
+}
+]
